@@ -3,7 +3,7 @@
 require_once 'conexao.class.php';
 
 
-class Usuarios {
+class Usuarios  { 
 
     private $id_usuario;
     private $email;
